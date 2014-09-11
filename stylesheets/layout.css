@@ -362,13 +362,13 @@ section#faq .question i {
 
 /*Clients*/
 
-section#clients {
+/*section#clients {
 	background-color: rgb(51,153,0);
 	-webkit-background-size: cover ;
 	background-size: cover ;
 	padding: 50px 0;
 	background-color: #147A3D;
-}
+}*/
 
 section#clients .preambule h3 {
 	color: white;
