@@ -231,6 +231,17 @@ section#intro .order-form button:hover {
 	transition: 0.2s ease-in;
 }
 
+/*Endorsements*/
+
+section#endorsements {
+	padding: 50px 0;
+}
+
+section#endorsements .preambule {
+	margin-bottom: 20px;
+	text-align: center;
+}
+
 /*About*/
 
 section#about {
