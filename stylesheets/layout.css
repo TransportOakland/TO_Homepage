@@ -246,6 +246,7 @@ section#endorsements .preambule {
 
 section#about {
 	padding: 50px 0;
+	background: rgba(154,204,51,.40);
 }
 
 section#about .preambule {
