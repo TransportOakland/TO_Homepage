@@ -39,6 +39,11 @@ h1 {
     line-height: 34px;
 }
 
+h1 {
+	line-height: 46px;
+	margin-bottom: 0px;
+}
+
 h2 {
     font-size: 26px;
     line-height: 30px;
@@ -56,6 +61,14 @@ h4 {
 
 h5 {
     font-size: 18px
+}
+
+h5white {
+	font-size: 24px;
+	color: #FFF;
+	font-weight: bold;
+	background-color: red;
+	line-height: 44px;
 }
 
 h6 {
@@ -116,11 +129,11 @@ header nav select {
 /*Intro*/
 
 section#intro {
-	background: url(../images/background.jpg) center no-repeat fixed;
+	/*background: url(../images/background.jpg) center no-repeat fixed;*/
 	-webkit-background-size: cover;
 	background-size: cover;
 	padding: 50px 0;
-	background-color: rgb(51,153,0);
+	background-color: #991900;
 }
 
 section#intro h1 {
@@ -230,6 +243,15 @@ section#intro .order-form button:hover {
 	-o-transition: 0.2s ease-in;
 	transition: 0.2s ease-in;
 }
+
+
+/*Additions*/
+
+section#email {
+	padding: 50px 0;
+	background: white;
+}
+
 
 /*Endorsements*/
 
