@@ -63,7 +63,7 @@ h5 {
     font-size: 18px
 }
 
-h5white {
+h5.white {
 	font-size: 24px;
 	color: #FFF;
 	font-weight: bold;
@@ -148,6 +148,9 @@ section#intro .main-text {
 
 section#intro p.lead {
 	color: white;
+}
+p.justify {
+	text-align: justify;
 }
 
 section#intro ul.list-services li {
@@ -251,8 +254,8 @@ section#email {
 }
 
 
-aalert {
-	background:red;
+section#intro p em {
+	background: #991900;;
 }
 
 /*Endorsements*/
