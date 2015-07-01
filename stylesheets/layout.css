@@ -67,7 +67,6 @@ h5white {
 	font-size: 24px;
 	color: #FFF;
 	font-weight: bold;
-	background-color: red;
 	line-height: 44px;
 }
 
@@ -129,11 +128,10 @@ header nav select {
 /*Intro*/
 
 section#intro {
-	/*background: url(../images/background.jpg) center no-repeat fixed;*/
+	background: url(../images/background.jpg) center no-repeat fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
 	padding: 50px 0;
-	background-color: #991900;
 }
 
 section#intro h1 {
