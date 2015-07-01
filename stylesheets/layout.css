@@ -191,6 +191,7 @@ section#intro .order-form h2 {
 
 section#intro .order-form p {
 	text-align: center;
+	margin: 0px 0px 20px;
 }
 
 section#intro .order-form input,
